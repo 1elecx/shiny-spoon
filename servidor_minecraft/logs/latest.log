@@ -105,3 +105,19 @@
 [03:36:59] [Server thread/INFO]: fabrix[/127.50.15.32:47993] logged in with entity id 125 at ([world]115.5, 70.0, 106.5)
 [03:44:39] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
 [03:44:46] [Server thread/INFO]: fabrix issued server command: /tpaccept
+[03:47:48] [Server thread/INFO]: elecx04 has made the advancement [Stone Age]
+[03:48:32] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
+[03:48:34] [Server thread/INFO]: fabrix fell from a high place
+[03:49:26] [Server thread/INFO]: Gamerule keepInventory is now set to: true
+[03:49:43] [Server thread/INFO]: elecx04 has made the advancement [Monster Hunter]
+[03:51:14] [Server thread/INFO]: elecx04 drowned
+[03:51:27] [Server thread/INFO]: fabrix issued server command: /back
+[03:52:09] [Server thread/WARN]: elecx04 moved too quickly! 0.4021708360106686,-0.604424101326714,18.078961058704095
+[03:52:57] [Server thread/INFO]: elecx04 was slain by Zombie
+[03:53:02] [Server thread/INFO]: elecx04 issued server command: /back
+[03:53:21] [Server thread/INFO]: fabrix was shot by Skeleton
+[03:53:25] [Server thread/INFO]: fabrix issued server command: /back
+[03:53:43] [Server thread/INFO]: fabrix has made the advancement [Monster Hunter]
+[03:54:59] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
+[03:55:03] [Server thread/INFO]: fabrix issued server command: /accept
+[03:55:22] [Server thread/INFO]: fabrix has made the advancement [Stone Age]
