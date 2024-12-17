@@ -166,3 +166,12 @@
 [04:43:50] [Server thread/INFO]: fabrix issued server command: /tpa elecx04
 [04:43:56] [Server thread/INFO]: elecx04 issued server command: /tpaccept
 [04:45:03] [Server thread/WARN]: elecx04 moved too quickly! -13.052224676670903,-1.1767592750642422,-4.000679128949287
+[04:49:02] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
+[04:49:13] [Server thread/INFO]: fabrix issued server command: /tpaccept
+[04:49:45] [Server thread/INFO]: fabrix was shot by Stray
+[04:49:59] [Server thread/INFO]: fabrix issued server command: /back
+[04:50:31] [Server thread/INFO]: fabrix was slain by Zombie
+[04:50:39] [Server thread/INFO]: fabrix issued server command: /back
+[04:51:43] [Server thread/INFO]: elecx04 has made the advancement [Sweet Dreams]
+[04:53:03] [Server thread/INFO]: fabrix has made the advancement [Sweet Dreams]
+[04:54:22] [Server thread/INFO]: elecx04 has made the advancement [Suit Up]
