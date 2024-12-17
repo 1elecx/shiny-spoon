@@ -154,3 +154,15 @@
 [04:31:57] [Server thread/INFO]: fabrix issued server command: /back
 [04:32:41] [Server thread/INFO]: fabrix was slain by Enderman
 [04:32:47] [Server thread/INFO]: fabrix issued server command: /back
+[04:36:23] [Server thread/INFO]: elecx04 has made the advancement [Acquire Hardware]
+[04:40:05] [Server thread/WARN]: elecx04 was kicked for floating too long!
+[04:40:05] [Server thread/INFO]: elecx04 lost connection: Flying is not enabled on this server
+[04:40:05] [Server thread/INFO]: elecx04 left the game
+[04:40:25] [User Authenticator #2/INFO]: UUID of player elecx04 is 68a42162-88f3-31df-b7f9-8c5edfa112a8
+[04:40:26] [Server thread/INFO]: elecx04 joined the game
+[04:40:26] [Server thread/INFO]: elecx04[/127.73.28.173:59827] logged in with entity id 21241 at ([world]-1473.882003256718, 77.86179243348067, 534.367537730951)
+[04:41:44] [Server thread/INFO]: fabrix hit the ground too hard
+[04:41:48] [Server thread/INFO]: fabrix issued server command: /back
+[04:43:50] [Server thread/INFO]: fabrix issued server command: /tpa elecx04
+[04:43:56] [Server thread/INFO]: elecx04 issued server command: /tpaccept
+[04:45:03] [Server thread/WARN]: elecx04 moved too quickly! -13.052224676670903,-1.1767592750642422,-4.000679128949287
