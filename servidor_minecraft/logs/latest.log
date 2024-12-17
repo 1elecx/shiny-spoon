@@ -190,3 +190,7 @@
 [06:01:49] [Server thread/INFO]: jos_g has made the advancement [Getting an Upgrade]
 [06:21:40] [Server thread/INFO]: jos_g has made the advancement [Monster Hunter]
 [06:26:10] [Server thread/INFO]: Villager Villager['Villager'/35234, uuid='02891666-c861-4106-a6de-84eb11a557c7', l='ServerLevel[world]', x=573.74, y=65.00, z=-2.26, cpos=[35, -1], tl=11097, v=true] died, message: 'Villager was slain by Zombie'
+[06:27:45] [Server thread/INFO]: Villager Villager['Weaponsmith'/35338, uuid='7f88e759-9f1f-4c16-b018-0f8d4e5e205f', l='ServerLevel[world]', x=557.44, y=65.00, z=24.74, cpos=[34, 1], tl=12789, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[06:29:16] [Server thread/INFO]: Villager Villager['Villager'/35363, uuid='16ec04e3-49dc-4d2a-b58c-9d9e217130c7', l='ServerLevel[world]', x=556.62, y=65.00, z=23.58, cpos=[34, 1], tl=14544, v=true] died, message: 'Villager was slain by Zombie'
+[06:30:24] [Server thread/INFO]: Villager Villager['Villager'/35365, uuid='61d50aa5-f45e-4e60-8de5-72bc45044c7a', l='ServerLevel[world]', x=572.85, y=62.58, z=18.21, cpos=[35, 1], tl=15905, v=true] died, message: 'Villager was slain by Drowned'
+[06:32:23] [Server thread/INFO]: Villager Villager['Villager'/35362, uuid='3aa8c0b6-b2a6-4293-95d3-3983ee71c74d', l='ServerLevel[world]', x=584.81, y=69.50, z=73.45, cpos=[36, 4], tl=18294, v=true] died, message: 'Villager was slain by Zombie'
