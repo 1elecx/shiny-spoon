@@ -80,3 +80,10 @@
 [05:01:48] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: fb312ebb-a601-447e-9f4a-bf87b1a1932d, mapped to TropicalFish['Tropical Fish'/3671, uuid='fb312ebb-a601-447e-9f4a-bf87b1a1932d', l='ServerLevel[world]', x=540.99, y=41.94, z=-9.70, cpos=[33, -1], tl=247, v=true], can't add TropicalFish['Tropical Fish'/3744, uuid='fb312ebb-a601-447e-9f4a-bf87b1a1932d', l='ServerLevel[world]', x=544.34, y=39.02, z=-4.25, cpos=[34, -1], tl=454, v=false]
 [05:02:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7973eecc-971d-4707-988e-f1403971465c, mapped to Skeleton['Skeleton'/3964, uuid='7973eecc-971d-4707-988e-f1403971465c', l='ServerLevel[world]', x=620.00, y=-20.00, z=16.89, cpos=[38, 1], tl=76, v=true], can't add Skeleton['Skeleton'/4005, uuid='7973eecc-971d-4707-988e-f1403971465c', l='ServerLevel[world]', x=625.17, y=-17.94, z=13.76, cpos=[39, 0], tl=157, v=false]
 [05:02:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7d71e600-81cf-48a8-885e-5f8fc138cb9a, mapped to EnderMan['Enderman'/3899, uuid='7d71e600-81cf-48a8-885e-5f8fc138cb9a', l='ServerLevel[world]', x=600.59, y=-17.00, z=32.23, cpos=[37, 2], tl=2209, v=true], can't add EnderMan['Enderman'/4010, uuid='7d71e600-81cf-48a8-885e-5f8fc138cb9a', l='ServerLevel[world]', x=627.34, y=-16.00, z=19.36, cpos=[39, 1], tl=7957, v=false]
+[05:06:35] [User Authenticator #1/INFO]: UUID of player JosGL is 201995ad-2f06-3a9d-ae48-a55617f8e64f
+[05:06:42] [Server thread/INFO]: JosGL joined the game
+[05:06:42] [Server thread/INFO]: JosGL[/127.204.6.108:38839] logged in with entity id 5435 at ([world]112.5, 78.0, 103.5)
+[05:08:55] [Server thread/INFO]: JosGL has made the advancement [Stone Age]
+[05:09:39] [Server thread/INFO]: JosGL has made the advancement [Getting an Upgrade]
+[05:11:21] [Server thread/INFO]: fabrix has made the advancement [Suit Up]
+[05:13:47] [Server thread/INFO]: JosGL has made the advancement [Monster Hunter]
