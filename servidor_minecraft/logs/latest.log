@@ -1,194 +1,80 @@
-[05:16:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[05:16:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[05:16:00] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[05:16:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[05:16:01] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+[23:01:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[23:01:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[23:01:29] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:01:31] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[23:01:31] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
  - BetterKeepInventory (1.6.1), SimpleTpa (7.4), SkinsRestorer (15.5.0)
-[05:16:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:16:08] [ServerMain/INFO]: Loaded 1337 recipes
-[05:16:08] [ServerMain/INFO]: Loaded 1448 advancements
-[05:16:08] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[05:16:08] [Server thread/INFO]: Loading properties
-[05:16:08] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[05:16:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[05:16:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:16:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:16:10] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[05:16:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[05:16:10] [Server thread/INFO]: Default game type: SURVIVAL
-[05:16:10] [Server thread/INFO]: Generating keypair
-[05:16:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:16:10] [Server thread/INFO]: Using epoll channel type
-[05:16:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:16:10] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[05:16:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
-[05:16:10] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
-[05:16:10] [Server thread/INFO]: [BetterKeepInventory] Loading server plugin BetterKeepInventory v1.6.1
-[05:16:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:16:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
-[05:16:11] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[05:16:12] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[05:16:12] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[05:16:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:16:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:16:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:16:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:16:12] [Server thread/INFO]: Preparing level "world"
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[05:16:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[05:16:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:16:13] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[05:16:14] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 283.1ms
-[05:16:14] [Server thread/INFO]: Preparing spawn area: 0%
-[05:16:14] [Server thread/INFO]: Preparing spawn area: 0%
-[05:16:14] [Server thread/INFO]: Preparing spawn area: 30%
-[05:16:14] [Server thread/INFO]: Time elapsed: 1440 ms
-[05:16:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:16:14] [Server thread/INFO]: Preparing spawn area: 0%
-[05:16:15] [Server thread/INFO]: Time elapsed: 301 ms
-[05:16:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:16:15] [Server thread/INFO]: Preparing spawn area: 0%
-[05:16:15] [Server thread/INFO]: Time elapsed: 119 ms
-[05:16:15] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
-[05:16:15] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[05:16:15] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
-[05:16:15] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[05:16:15] [Server thread/INFO]: [BetterKeepInventory] Enabling BetterKeepInventory v1.6.1
-[05:16:15] [Server thread/INFO]: [spark] Starting background profiler...
-[05:16:15] [Server thread/INFO]: Done preparing level "world" (3.041s)
-[05:16:15] [Server thread/INFO]: Running delayed init tasks
-[05:16:15] [Server thread/INFO]: Done (16.800s)! For help, type "help"
-[05:16:18] [User Authenticator #0/INFO]: UUID of player JosGL is 201995ad-2f06-3a9d-ae48-a55617f8e64f
-[05:16:20] [Server thread/INFO]: JosGL joined the game
-[05:16:20] [Server thread/INFO]: JosGL[/127.204.6.108:58353] logged in with entity id 20 at ([world]551.1464645477321, 64.0, 140.29666011069355)
-[05:16:20] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: fad841ec-4d1e-4be8-96be-0ceb31d94a7d, mapped to Fox['Fox'/25, uuid='fad841ec-4d1e-4be8-96be-0ceb31d94a7d', l='ServerLevel[world]', x=544.27, y=69.00, z=105.72, cpos=[34, 6], tl=40630, v=true], can't add Fox['Fox'/26, uuid='fad841ec-4d1e-4be8-96be-0ceb31d94a7d', l='ServerLevel[world]', x=540.97, y=70.00, z=107.05, cpos=[33, 6], tl=40518, v=false]
-[05:16:30] [User Authenticator #0/INFO]: UUID of player fabrix is a9024316-8fdc-3773-8475-f2763d63a5fe
-[05:16:31] [Server thread/INFO]: fabrix joined the game
-[05:16:31] [Server thread/INFO]: fabrix[/127.50.15.32:60297] logged in with entity id 392 at ([world]543.0664328717705, 69.9375, 13.050000011920929)
-[05:16:32] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0ee57a19-0b1e-4423-99c6-cfa495b2fa9f, mapped to Axolotl['Axolotl'/425, uuid='0ee57a19-0b1e-4423-99c6-cfa495b2fa9f', l='ServerLevel[world]', x=544.26, y=-3.35, z=-72.50, cpos=[34, -5], tl=994, v=true], can't add Axolotl['Axolotl'/433, uuid='0ee57a19-0b1e-4423-99c6-cfa495b2fa9f', l='ServerLevel[world]', x=544.54, y=-1.17, z=-81.28, cpos=[34, -6], tl=1149, v=false]
-[05:16:45] [Server thread/INFO]: JosGL issued server command: /tpa fabrix
-[05:16:52] [Server thread/INFO]: fabrix issued server command: /tpaccept
-[05:17:08] [Server thread/INFO]: JosGL has made the advancement [Monster Hunter]
-[05:17:24] [Server thread/INFO]: JosGL has made the advancement [Best Friends Forever]
-[05:18:29] [Server thread/INFO]: Villager Villager['Weaponsmith'/156, uuid='cbb68f18-f1f2-481a-9229-0318e9c6d8de', l='ServerLevel[world]', x=615.27, y=72.00, z=22.46, cpos=[38, 1], tl=50320, v=true] died, message: 'Weaponsmith was slain by Zombie'
-[05:20:32] [Server thread/INFO]: fabrix was shot by Skeleton
-[05:21:15] [Server thread/INFO]: JosGL was blown up by Creeper
-[05:26:45] [Server thread/INFO]: JosGL issued server command: /tpa fabrix
-[05:26:49] [Server thread/INFO]: fabrix issued server command: /accept
-[05:27:20] [Server thread/INFO]: JosGL has made the advancement [Suit Up]
-[05:29:35] [Server thread/INFO]: fabrix went up in flames
-[05:30:03] [User Authenticator #1/INFO]: UUID of player elecx04 is 68a42162-88f3-31df-b7f9-8c5edfa112a8
-[05:30:04] [Server thread/INFO]: elecx04 joined the game
-[05:30:04] [Server thread/INFO]: elecx04[/127.73.28.173:43967] logged in with entity id 5207 at ([world]-2562.678362247046, 61.35883677382015, -303.3048293126833)
-[05:31:44] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
-[05:31:48] [Server thread/INFO]: fabrix issued server command: /accept
-[05:33:18] [Server thread/INFO]: JosGL has made the advancement [Sweet Dreams]
-[05:35:25] [Server thread/INFO]: elecx04 has made the advancement [Best Friends Forever]
-[05:35:51] [Server thread/INFO]: JosGL has made the advancement [What a Deal!]
-[05:40:35] [Server thread/INFO]: fabrix issued server command: /tpa elecx04
-[05:40:52] [Server thread/INFO]: fabrix issued server command: /tpa JosGL
-[05:41:13] [Server thread/INFO]: elecx04 issued server command: /tpaccept fabrix
-[05:41:16] [Server thread/INFO]: JosGL issued server command: /tpaccept
-[05:43:53] [Server thread/INFO]: fabrix issued server command: /back
-[05:46:00] [Server thread/INFO]: JosGL lost connection: Timed out
-[05:46:00] [Server thread/INFO]: JosGL left the game
-[05:47:28] [User Authenticator #2/INFO]: UUID of player JosGL is 201995ad-2f06-3a9d-ae48-a55617f8e64f
-[05:47:33] [Server thread/INFO]: JosGL joined the game
-[05:47:33] [Server thread/INFO]: JosGL[/127.204.6.108:47517] logged in with entity id 11092 at ([world]485.1991814928163, -46.0, 121.67518181220488)
-[05:48:51] [Server thread/INFO]: elecx04 has made the advancement [Not Today, Thank You]
-[05:49:17] [Server thread/INFO]: JosGL has made the advancement [Acquire Hardware]
-[05:50:30] [Server thread/INFO]: fabrix was blown up by Creeper
-[05:50:50] [Server thread/INFO]: fabrix issued server command: /back
-[05:53:59] [Server thread/INFO]: fabrix was slain by Enderman
-[05:54:04] [Server thread/INFO]: fabrix issued server command: /back
-[06:00:37] [Server thread/INFO]: elecx04 fell from a high place
-[06:00:44] [Server thread/INFO]: elecx04 issued server command: /back
-[06:01:36] [Server thread/INFO]: JosGL has made the advancement [Isn't It Iron Pick]
-[06:01:53] [Server thread/INFO]: fabrix drowned
-[06:02:05] [Server thread/INFO]: fabrix issued server command: /back
-[06:02:43] [Server thread/INFO]: fabrix has made the advancement [Best Friends Forever]
-[06:03:56] [Server thread/INFO]: JosGL has made the advancement [Diamonds!]
-[06:06:08] [User Authenticator #3/INFO]: UUID of player furugos is 1fd7d0c8-9b6d-372b-ae6c-c67e7f1d6932
-[06:06:12] [Server thread/INFO]: furugos joined the game
-[06:06:12] [Server thread/INFO]: furugos[/127.181.162.152:40273] logged in with entity id 25690 at ([world]110.5, 63.0, 90.5)
-[06:06:29] [Server thread/INFO]: furugos issued server command: /tpa elecx04
-[06:06:53] [Server thread/INFO]: elecx04 issued server command: /tpaccept
-[06:07:07] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
-[06:07:10] [Server thread/INFO]: furugos issued server command: /tpa elecx04
-[06:07:11] [Server thread/INFO]: fabrix issued server command: /accept
-[06:07:52] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
-[06:07:54] [Server thread/INFO]: furugos issued server command: /tpa elecx04
-[06:07:57] [Server thread/INFO]: fabrix issued server command: /accept
-[06:08:23] [Server thread/INFO]: furugos issued server command: /tpa elecx04
-[06:08:26] [Server thread/INFO]: elecx04 issued server command: /tpaccept
-[06:09:46] [Server thread/INFO]: furugos was slain by Wolf
-[06:09:52] [Server thread/INFO]: furugos issued server command: /back
-[06:10:09] [Server thread/INFO]: elecx04 issued server command: /back
-[06:10:28] [Server thread/INFO]: elecx04 issued server command: /tpa furugos
-[06:10:34] [Server thread/INFO]: furugos issued server command: /tpaccept
-[06:11:58] [Server thread/INFO]: furugos lost connection: Disconnected
-[06:11:58] [Server thread/INFO]: furugos left the game
-[06:12:05] [Server thread/INFO]: fabrix lost connection: Disconnected
-[06:12:05] [Server thread/INFO]: fabrix left the game
-[06:12:12] [User Authenticator #4/INFO]: UUID of player fabrix is a9024316-8fdc-3773-8475-f2763d63a5fe
-[06:12:13] [Server thread/INFO]: fabrix joined the game
-[06:12:13] [Server thread/INFO]: fabrix[/127.50.15.32:53831] logged in with entity id 28453 at ([world]551.0954084450362, 127.0, 433.9457143358596)
-[06:13:01] [User Authenticator #4/INFO]: UUID of player furugos is 1fd7d0c8-9b6d-372b-ae6c-c67e7f1d6932
-[06:13:02] [Server thread/INFO]: furugos joined the game
-[06:13:02] [Server thread/INFO]: furugos[/127.181.162.152:48297] logged in with entity id 28936 at ([world]544.5876296467142, 120.0, 396.01221239607776)
-[06:13:35] [Server thread/INFO]: furugos issued server command: /tpa ele
-[06:13:44] [Server thread/INFO]: elecx04 issued server command: /tpaccept
-[06:15:51] [Server thread/INFO]: fabrix fell from a high place
-[06:16:19] [Server thread/INFO]: fabrix issued server command: /back
-[06:17:54] [Server thread/INFO]: elecx04 issued server command: /msg fabrix
-[06:18:05] [Server thread/INFO]: elecx04 issued server command: /msg fabrix y si le decimos a nando? xd
-[06:18:21] [Server thread/INFO]: elecx04 issued server command: /msg fabrix o nada xd
-[06:18:38] [Server thread/INFO]: fabrix issued server command: /tell elecx04 PERO ES 250 POR MOCHA
-[06:18:49] [Async Chat Thread - #0/INFO]: [Not Secure] <elecx04> fabrix
-[06:18:56] [Server thread/INFO]: elecx04 issued server command: /msg fabrix velda
-[06:19:06] [Server thread/INFO]: fabrix issued server command: /tell elecx04 CREES QUE PAGUE?
-[06:20:59] [Server thread/INFO]: JosGL issued server command: /tpa fabrix
-[06:21:04] [Server thread/INFO]: fabrix issued server command: /accept
-[06:22:31] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
-[06:22:32] [Server thread/INFO]: fabrix fell from a high place
-[06:22:44] [Server thread/INFO]: elecx04 issued server command: /tpa JosGL
-[06:22:45] [Server thread/INFO]: JosGL issued server command: /tpaccept
-[06:23:06] [Server thread/INFO]: fabrix issued server command: /back
-[06:23:12] [Server thread/INFO]: elecx04 fell from a high place
-[06:23:17] [Server thread/INFO]: elecx04 issued server command: /back
-[06:24:08] [Server thread/INFO]: furugos has made the advancement [Stone Age]
-[06:24:24] [Server thread/INFO]: furugos has made the advancement [Getting an Upgrade]
-[06:25:12] [Server thread/INFO]: furugos lost connection: Disconnected
-[06:25:12] [Server thread/INFO]: furugos left the game
-[06:25:57] [Server thread/INFO]: fabrix has made the advancement [The Parrots and the Bats]
-[06:27:21] [Server thread/INFO]: elecx04 fell from a high place
-[06:27:52] [Server thread/INFO]: fabrix fell from a high place
-[06:28:46] [Server thread/INFO]: fabrix drowned
-[06:29:03] [Server thread/INFO]: elecx04 fell from a high place
-[06:29:37] [Async Chat Thread - #2/INFO]: [Not Secure] <elecx04> namemc.com
-[06:29:48] [Server thread/INFO]: fabrix drowned
-[06:30:00] [User Authenticator #5/INFO]: UUID of player furugos is 1fd7d0c8-9b6d-372b-ae6c-c67e7f1d6932
-[06:30:01] [Server thread/INFO]: furugos joined the game
-[06:30:01] [Server thread/INFO]: furugos[/127.181.162.152:55999] logged in with entity id 39609 at ([world]735.5277273872339, 86.0, 213.34560369354975)
-[06:33:39] [Server thread/INFO]: furugos issued server command: /tpa elecx04l
-[06:33:41] [Server thread/INFO]: furugos issued server command: /tpa elecx04
-[06:33:51] [Server thread/INFO]: elecx04 issued server command: /tpaccept
-[06:34:20] [Server thread/INFO]: furugos lost connection: Disconnected
-[06:34:20] [Server thread/INFO]: furugos left the game
-[06:41:13] [Server thread/INFO]: elecx04 was doomed to fall by fabrix
-[06:41:29] [Server thread/INFO]: fabrix was doomed to fall by elecx04
-[06:41:52] [Server thread/INFO]: fabrix lost connection: Disconnected
-[06:41:52] [Server thread/INFO]: fabrix left the game
-[06:43:44] [Server thread/INFO]: elecx04 lost connection: Disconnected
-[06:43:44] [Server thread/INFO]: elecx04 left the game
+[23:01:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:01:38] [ServerMain/INFO]: Loaded 1337 recipes
+[23:01:38] [ServerMain/INFO]: Loaded 1448 advancements
+[23:01:38] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:01:38] [Server thread/INFO]: Loading properties
+[23:01:38] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[23:01:39] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:01:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:01:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:01:40] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:01:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[23:01:41] [Server thread/INFO]: Default game type: SURVIVAL
+[23:01:41] [Server thread/INFO]: Generating keypair
+[23:01:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:01:41] [Server thread/INFO]: Using epoll channel type
+[23:01:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:01:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:01:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
+[23:01:42] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[23:01:42] [Server thread/INFO]: [BetterKeepInventory] Loading server plugin BetterKeepInventory v1.6.1
+[23:01:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:01:42] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
+[23:01:43] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[23:01:44] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[23:01:44] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:01:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:01:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:01:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:01:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:01:44] [Server thread/INFO]: Preparing level "world"
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:01:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:01:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:01:45] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[23:01:46] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 704.3ms
+[23:01:46] [Server thread/INFO]: Preparing spawn area: 0%
+[23:01:46] [Server thread/INFO]: Preparing spawn area: 0%
+[23:01:46] [Server thread/INFO]: Preparing spawn area: 0%
+[23:01:47] [Server thread/INFO]: Preparing spawn area: 18%
+[23:01:47] [Server thread/INFO]: Time elapsed: 2004 ms
+[23:01:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:01:47] [Server thread/INFO]: Preparing spawn area: 0%
+[23:01:47] [Server thread/INFO]: Time elapsed: 356 ms
+[23:01:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:01:48] [Server thread/INFO]: Preparing spawn area: 0%
+[23:01:48] [Server thread/INFO]: Time elapsed: 227 ms
+[23:01:48] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[23:01:48] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[23:01:48] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[23:01:48] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[23:01:48] [Server thread/INFO]: [BetterKeepInventory] Enabling BetterKeepInventory v1.6.1
+[23:01:48] [Server thread/INFO]: [spark] Starting background profiler...
+[23:01:49] [Server thread/INFO]: Done preparing level "world" (4.783s)
+[23:01:49] [Server thread/INFO]: Running delayed init tasks
+[23:01:49] [Server thread/INFO]: Done (23.034s)! For help, type "help"
+[23:04:43] [User Authenticator #0/INFO]: UUID of player furugos is 1fd7d0c8-9b6d-372b-ae6c-c67e7f1d6932
+[23:04:44] [Server thread/INFO]: furugos joined the game
+[23:04:44] [Server thread/INFO]: furugos[/127.181.162.152:59491] logged in with entity id 22 at ([world]447.2851171382654, 121.0, 549.3439197174664)
+[23:04:49] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1968a6b0-733a-4a65-89b6-363434fdce18, mapped to Bat['Bat'/203, uuid='1968a6b0-733a-4a65-89b6-363434fdce18', l='ServerLevel[world]', x=576.56, y=33.09, z=437.16, cpos=[36, 27], tl=233, v=true], can't add Bat['Bat'/230, uuid='1968a6b0-733a-4a65-89b6-363434fdce18', l='ServerLevel[world]', x=569.82, y=32.18, z=430.72, cpos=[35, 26], tl=149, v=false]
+[23:04:49] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0d47ec7e-7716-4b48-9868-8cbdc05bb607, mapped to Bat['Bat'/242, uuid='0d47ec7e-7716-4b48-9868-8cbdc05bb607', l='ServerLevel[world]', x=591.44, y=23.93, z=428.07, cpos=[36, 26], tl=404, v=true], can't add Bat['Bat'/272, uuid='0d47ec7e-7716-4b48-9868-8cbdc05bb607', l='ServerLevel[world]', x=595.77, y=25.96, z=420.46, cpos=[37, 26], tl=473, v=false]
+[23:05:39] [User Authenticator #0/INFO]: UUID of player fabrix is a9024316-8fdc-3773-8475-f2763d63a5fe
+[23:05:39] [Server thread/INFO]: fabrix joined the game
+[23:05:39] [Server thread/INFO]: fabrix[/127.50.15.32:57559] logged in with entity id 405 at ([world]549.7236405605412, 127.0, 431.86133683926414)
