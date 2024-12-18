@@ -96,3 +96,10 @@
 [05:33:18] [Server thread/INFO]: JosGL has made the advancement [Sweet Dreams]
 [05:35:25] [Server thread/INFO]: elecx04 has made the advancement [Best Friends Forever]
 [05:35:51] [Server thread/INFO]: JosGL has made the advancement [What a Deal!]
+[05:40:35] [Server thread/INFO]: fabrix issued server command: /tpa elecx04
+[05:40:52] [Server thread/INFO]: fabrix issued server command: /tpa JosGL
+[05:41:13] [Server thread/INFO]: elecx04 issued server command: /tpaccept fabrix
+[05:41:16] [Server thread/INFO]: JosGL issued server command: /tpaccept
+[05:43:53] [Server thread/INFO]: fabrix issued server command: /back
+[05:46:00] [Server thread/INFO]: JosGL lost connection: Timed out
+[05:46:00] [Server thread/INFO]: JosGL left the game
