@@ -84,3 +84,15 @@
 [05:18:29] [Server thread/INFO]: Villager Villager['Weaponsmith'/156, uuid='cbb68f18-f1f2-481a-9229-0318e9c6d8de', l='ServerLevel[world]', x=615.27, y=72.00, z=22.46, cpos=[38, 1], tl=50320, v=true] died, message: 'Weaponsmith was slain by Zombie'
 [05:20:32] [Server thread/INFO]: fabrix was shot by Skeleton
 [05:21:15] [Server thread/INFO]: JosGL was blown up by Creeper
+[05:26:45] [Server thread/INFO]: JosGL issued server command: /tpa fabrix
+[05:26:49] [Server thread/INFO]: fabrix issued server command: /accept
+[05:27:20] [Server thread/INFO]: JosGL has made the advancement [Suit Up]
+[05:29:35] [Server thread/INFO]: fabrix went up in flames
+[05:30:03] [User Authenticator #1/INFO]: UUID of player elecx04 is 68a42162-88f3-31df-b7f9-8c5edfa112a8
+[05:30:04] [Server thread/INFO]: elecx04 joined the game
+[05:30:04] [Server thread/INFO]: elecx04[/127.73.28.173:43967] logged in with entity id 5207 at ([world]-2562.678362247046, 61.35883677382015, -303.3048293126833)
+[05:31:44] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
+[05:31:48] [Server thread/INFO]: fabrix issued server command: /accept
+[05:33:18] [Server thread/INFO]: JosGL has made the advancement [Sweet Dreams]
+[05:35:25] [Server thread/INFO]: elecx04 has made the advancement [Best Friends Forever]
+[05:35:51] [Server thread/INFO]: JosGL has made the advancement [What a Deal!]
