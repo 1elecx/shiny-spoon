@@ -151,3 +151,44 @@
 [06:13:44] [Server thread/INFO]: elecx04 issued server command: /tpaccept
 [06:15:51] [Server thread/INFO]: fabrix fell from a high place
 [06:16:19] [Server thread/INFO]: fabrix issued server command: /back
+[06:17:54] [Server thread/INFO]: elecx04 issued server command: /msg fabrix
+[06:18:05] [Server thread/INFO]: elecx04 issued server command: /msg fabrix y si le decimos a nando? xd
+[06:18:21] [Server thread/INFO]: elecx04 issued server command: /msg fabrix o nada xd
+[06:18:38] [Server thread/INFO]: fabrix issued server command: /tell elecx04 PERO ES 250 POR MOCHA
+[06:18:49] [Async Chat Thread - #0/INFO]: [Not Secure] <elecx04> fabrix
+[06:18:56] [Server thread/INFO]: elecx04 issued server command: /msg fabrix velda
+[06:19:06] [Server thread/INFO]: fabrix issued server command: /tell elecx04 CREES QUE PAGUE?
+[06:20:59] [Server thread/INFO]: JosGL issued server command: /tpa fabrix
+[06:21:04] [Server thread/INFO]: fabrix issued server command: /accept
+[06:22:31] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
+[06:22:32] [Server thread/INFO]: fabrix fell from a high place
+[06:22:44] [Server thread/INFO]: elecx04 issued server command: /tpa JosGL
+[06:22:45] [Server thread/INFO]: JosGL issued server command: /tpaccept
+[06:23:06] [Server thread/INFO]: fabrix issued server command: /back
+[06:23:12] [Server thread/INFO]: elecx04 fell from a high place
+[06:23:17] [Server thread/INFO]: elecx04 issued server command: /back
+[06:24:08] [Server thread/INFO]: furugos has made the advancement [Stone Age]
+[06:24:24] [Server thread/INFO]: furugos has made the advancement [Getting an Upgrade]
+[06:25:12] [Server thread/INFO]: furugos lost connection: Disconnected
+[06:25:12] [Server thread/INFO]: furugos left the game
+[06:25:57] [Server thread/INFO]: fabrix has made the advancement [The Parrots and the Bats]
+[06:27:21] [Server thread/INFO]: elecx04 fell from a high place
+[06:27:52] [Server thread/INFO]: fabrix fell from a high place
+[06:28:46] [Server thread/INFO]: fabrix drowned
+[06:29:03] [Server thread/INFO]: elecx04 fell from a high place
+[06:29:37] [Async Chat Thread - #2/INFO]: [Not Secure] <elecx04> namemc.com
+[06:29:48] [Server thread/INFO]: fabrix drowned
+[06:30:00] [User Authenticator #5/INFO]: UUID of player furugos is 1fd7d0c8-9b6d-372b-ae6c-c67e7f1d6932
+[06:30:01] [Server thread/INFO]: furugos joined the game
+[06:30:01] [Server thread/INFO]: furugos[/127.181.162.152:55999] logged in with entity id 39609 at ([world]735.5277273872339, 86.0, 213.34560369354975)
+[06:33:39] [Server thread/INFO]: furugos issued server command: /tpa elecx04l
+[06:33:41] [Server thread/INFO]: furugos issued server command: /tpa elecx04
+[06:33:51] [Server thread/INFO]: elecx04 issued server command: /tpaccept
+[06:34:20] [Server thread/INFO]: furugos lost connection: Disconnected
+[06:34:20] [Server thread/INFO]: furugos left the game
+[06:41:13] [Server thread/INFO]: elecx04 was doomed to fall by fabrix
+[06:41:29] [Server thread/INFO]: fabrix was doomed to fall by elecx04
+[06:41:52] [Server thread/INFO]: fabrix lost connection: Disconnected
+[06:41:52] [Server thread/INFO]: fabrix left the game
+[06:43:44] [Server thread/INFO]: elecx04 lost connection: Disconnected
+[06:43:44] [Server thread/INFO]: elecx04 left the game
