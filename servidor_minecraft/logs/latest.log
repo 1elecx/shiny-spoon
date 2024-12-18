@@ -123,3 +123,31 @@
 [06:06:12] [Server thread/INFO]: furugos joined the game
 [06:06:12] [Server thread/INFO]: furugos[/127.181.162.152:40273] logged in with entity id 25690 at ([world]110.5, 63.0, 90.5)
 [06:06:29] [Server thread/INFO]: furugos issued server command: /tpa elecx04
+[06:06:53] [Server thread/INFO]: elecx04 issued server command: /tpaccept
+[06:07:07] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
+[06:07:10] [Server thread/INFO]: furugos issued server command: /tpa elecx04
+[06:07:11] [Server thread/INFO]: fabrix issued server command: /accept
+[06:07:52] [Server thread/INFO]: elecx04 issued server command: /tpa fabrix
+[06:07:54] [Server thread/INFO]: furugos issued server command: /tpa elecx04
+[06:07:57] [Server thread/INFO]: fabrix issued server command: /accept
+[06:08:23] [Server thread/INFO]: furugos issued server command: /tpa elecx04
+[06:08:26] [Server thread/INFO]: elecx04 issued server command: /tpaccept
+[06:09:46] [Server thread/INFO]: furugos was slain by Wolf
+[06:09:52] [Server thread/INFO]: furugos issued server command: /back
+[06:10:09] [Server thread/INFO]: elecx04 issued server command: /back
+[06:10:28] [Server thread/INFO]: elecx04 issued server command: /tpa furugos
+[06:10:34] [Server thread/INFO]: furugos issued server command: /tpaccept
+[06:11:58] [Server thread/INFO]: furugos lost connection: Disconnected
+[06:11:58] [Server thread/INFO]: furugos left the game
+[06:12:05] [Server thread/INFO]: fabrix lost connection: Disconnected
+[06:12:05] [Server thread/INFO]: fabrix left the game
+[06:12:12] [User Authenticator #4/INFO]: UUID of player fabrix is a9024316-8fdc-3773-8475-f2763d63a5fe
+[06:12:13] [Server thread/INFO]: fabrix joined the game
+[06:12:13] [Server thread/INFO]: fabrix[/127.50.15.32:53831] logged in with entity id 28453 at ([world]551.0954084450362, 127.0, 433.9457143358596)
+[06:13:01] [User Authenticator #4/INFO]: UUID of player furugos is 1fd7d0c8-9b6d-372b-ae6c-c67e7f1d6932
+[06:13:02] [Server thread/INFO]: furugos joined the game
+[06:13:02] [Server thread/INFO]: furugos[/127.181.162.152:48297] logged in with entity id 28936 at ([world]544.5876296467142, 120.0, 396.01221239607776)
+[06:13:35] [Server thread/INFO]: furugos issued server command: /tpa ele
+[06:13:44] [Server thread/INFO]: elecx04 issued server command: /tpaccept
+[06:15:51] [Server thread/INFO]: fabrix fell from a high place
+[06:16:19] [Server thread/INFO]: fabrix issued server command: /back
