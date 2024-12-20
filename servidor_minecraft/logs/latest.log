@@ -82,3 +82,8 @@
 [23:16:23] [User Authenticator #0/INFO]: UUID of player JosGL is 201995ad-2f06-3a9d-ae48-a55617f8e64f
 [23:16:24] [Server thread/INFO]: JosGL joined the game
 [23:16:24] [Server thread/INFO]: JosGL[/127.204.6.108:50161] logged in with entity id 250 at ([world]615.5308455020026, 127.0, 452.08336414872963)
+[23:38:31] [Server thread/INFO]: JosGL lost connection: Disconnected
+[23:38:31] [Server thread/INFO]: JosGL left the game
+[23:42:14] [User Authenticator #1/INFO]: UUID of player JosGL is 201995ad-2f06-3a9d-ae48-a55617f8e64f
+[23:42:15] [Server thread/INFO]: JosGL joined the game
+[23:42:15] [Server thread/INFO]: JosGL[/127.204.6.108:45063] logged in with entity id 4099 at ([world]508.30000001192093, 66.0, 831.6999999880791)
